@@ -1,0 +1,33 @@
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csprojAssemblyReference.cache
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNote.resources
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNotes.resources
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.Properties.Resources.resources
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.GenerateResource.cache
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.CoreCompileInputs.cache
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.exe.config
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.pdb
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\source\repos\COMP3304Worksheets\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.pdb
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.exe.config
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\bin\Debug\COMP3304Session1.pdb
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csprojAssemblyReference.cache
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNote.resources
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNotes.resources
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.Properties.Resources.resources
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.GenerateResource.cache
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.CoreCompileInputs.cache
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\Desktop\COMP3304Session1\COMP3304Session1\obj\Debug\COMP3304Session1.pdb
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\bin\Debug\COMP3304Session1.exe.config
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\bin\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\bin\Debug\COMP3304Session1.pdb
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.csprojAssemblyReference.cache
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNote.resources
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.FishyNotes.resources
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.Properties.Resources.resources
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.GenerateResource.cache
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.csproj.CoreCompileInputs.cache
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.exe
+C:\Users\malj1_17\Source\Repos\COMP3304Sessions\New folder\COMP3304Session1\obj\Debug\COMP3304Session1.pdb
